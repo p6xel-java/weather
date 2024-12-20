@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="mic_desc" translatable="false">микро для поиска</string>
+    <string name="day">День</string>
+    <string name="pressure">ДАВЛЕНИЕ</string>
+    <string name="wind">ВЕТЕР</string>
+    <string name="humidity">ВЛАЖНОСТЬ</string>
+    <string name="enter_city_name">ВВЕДИТЕ ГОРОД</string>
+    <string name="updated_at"></string>
+    <string name="monday">ПОНЕДЕЛЬНИК</string>
+    <string name="tuesday">ВТОРНИК</string>
+    <string name="wednesday">СРЕДА</string>
+    <string name="thursday">ЧЕТВЕРГ</string>
+    <string name="friday">ПЯТНИЦА</string>
+    <string name="saturday">СУББОТА</string>
+    <string name="sunday">ВОСКРЕСЕНЬЕ</string>
+</resources>
